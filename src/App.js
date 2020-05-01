@@ -3,7 +3,7 @@ import './App.css';
 
 const marqueeStyle = {
   backgroundColor: 'black',
-  color: 'red',
+  color: 'yellow',
   fontSize: '100vh',
   lineHeight: '100vh',
 };
